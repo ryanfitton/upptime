@@ -17,9 +17,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ryanfitton.co.uk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/ryanfitton/upptime/master/assets/logo-small.png
+  logoUrl: https://raw.githubusercontent.com/ryanfitton/upptime/master/assets/logo-small-48.png
   name: Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
