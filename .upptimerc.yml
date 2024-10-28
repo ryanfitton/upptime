@@ -13,6 +13,7 @@ sites:
     url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk
 
 status-website:
+  themeUrl: https://status.ryanfitton.co.uk/ryanfitton-theme.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ryanfitton.co.uk
