@@ -11,24 +11,21 @@ sites:
     url: https://ryanfitton.co.uk/portfolio/
   - name: ryanfitton-nextjs-2024.ryanfitton.co.uk
     url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ryanfitton.co.uk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/ryanfitton/upptime/master/assets/logo.png
+  logoUrl: https://raw.githubusercontent.com/ryanfitton/upptime/master/assets/logo-small.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: 
   navbar:
     - title: Status
       href: /
+      - title: About
+      href: https://ryanfitton.co.uk/about/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
