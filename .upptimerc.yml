@@ -24,7 +24,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-      - title: About
+    - title: About
       href: https://ryanfitton.co.uk/about/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
