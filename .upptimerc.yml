@@ -25,12 +25,10 @@ status-website:
   introTitle: ""
   introMessage: 
   navbar:
-    - title: Status
+    - title: Status overview 
       href: /
-    - title: About
-      href: https://ryanfitton.co.uk/about/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Issue tracker
+      href: https://github.com/$OWNER/$REPO/issues
       
 assignees:
   - ryanfitton
