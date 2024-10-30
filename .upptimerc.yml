@@ -10,9 +10,9 @@ sites:
   - name: ryanfitton.co.uk/portfolio/
     url: https://ryanfitton.co.uk/portfolio/
   - name: links.ryanfitton.co.uk
-    url: https://links.ryanfitton.co.uk/
+    url: https://links.ryanfitton.co.uk
   - name: ryanfitton-nextjs-2024.ryanfitton.co.uk
-    url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk/
+    url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk
 
 status-website:
   themeUrl: https://status.ryanfitton.co.uk/ryanfitton-theme.css
