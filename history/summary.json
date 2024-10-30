@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 707,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 588,
+    "timeDay": 783,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://ryanfitton.co.uk/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/ryanfitton.co.uk.ico",
     "slug": "ryanfitton-co-uk-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2573,
-    "timeDay": 2021,
-    "timeWeek": 2573,
-    "timeMonth": 2573,
-    "timeYear": 2573,
-    "dailyMinutesDown": {}
+    "time": 2400,
+    "timeDay": 1980,
+    "timeWeek": 2400,
+    "timeMonth": 2400,
+    "timeYear": 2400,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "ryanfitton.co.uk/portfolio/",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 169,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 161,
+    "timeDay": 257,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.ryanfitton.co.uk.ico",
     "slug": "links-ryanfitton-co-uk",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
-    "dailyMinutesDown": {
-      "2024-10-30": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 140,
+    "timeDay": 147,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ryanfitton-nextjs-2024.ryanfitton.co.uk",
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
+    "time": 163,
     "timeDay": 176,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
