@@ -2,17 +2,25 @@
 owner: ryanfitton # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+#Issues are automatically closed once they are resolved, however if they are open for less than 15 minutes they are deleted instead. You can disable this behaviour by setting the skipDeleteIssues key to true.
+skipDeleteIssues: true
+
 sites:
   - name: ryanfitton.co.uk
     url: https://ryanfitton.co.uk
+    maxResponseTime: 3000
   - name: ryanfitton.co.uk/blog/
     url: https://ryanfitton.co.uk/blog/
+    maxResponseTime: 8000
   - name: ryanfitton.co.uk/portfolio/
     url: https://ryanfitton.co.uk/portfolio/
+    maxResponseTime: 8000
   - name: links.ryanfitton.co.uk
     url: https://links.ryanfitton.co.uk
+    maxResponseTime: 3000
   - name: ryanfitton-nextjs-2024.ryanfitton.co.uk
     url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk
+    maxResponseTime: 3000
 
 status-website:
   themeUrl: https://status.ryanfitton.co.uk/ryanfitton-theme.css
@@ -21,9 +29,11 @@ status-website:
   cname: status.ryanfitton.co.uk
   # baseUrl: /your-repo-name
   logoUrl: https://status.ryanfitton.co.uk/logo-small-48.png
-  name: Status Page
+  name: ""
+  introTitle: "Status Page"
+  introMessage: Checks are run every 20 minutes.
   introTitle: ""
-  introMessage: 
+  introMessage: ""
   navbar:
     - title: Status overview 
       href: /
@@ -32,6 +42,15 @@ status-website:
       
 assignees:
   - ryanfitton
+
+workflowSchedule:
+  graphs: "0 0 * * *"               # At 00:00
+  responseTime: "0 23 * * *"        # At 23:00
+  staticSite: "0 1 * * *"           # At 01:00
+  summary: "0 0 * * *"              # At 00:00
+  updateTemplate: "0 0 * * *"       # At 00:00
+  updates: "0 3 * * *"              # At 03:00
+  uptime: "*/20 * * * *"            # Every 20 minutes
 
 metaTags:
   - name: "robots"
