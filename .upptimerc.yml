@@ -32,8 +32,6 @@ status-website:
   name: ""
   introTitle: "Status Page"
   introMessage: Checks are run every 20 minutes.
-  introTitle: ""
-  introMessage: ""
   navbar:
     - title: Status overview 
       href: /
