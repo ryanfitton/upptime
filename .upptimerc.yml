@@ -18,10 +18,10 @@ sites:
   - name: links.ryanfitton.co.uk
     url: https://links.ryanfitton.co.uk
     maxResponseTime: 3000
-  - name: Home Network ping via Cloudflare Dynamic DNS
+  - name: Home Network public port forward
     check: "tcp-ping"
-    url: $HOME_NETWORK_DOMAIN
-    port: 53
+    url: $HOME_NETWORK_ADDRESS
+    port: $HOME_NETWORK_PORT
   - name: ryanfitton-nextjs-2024.ryanfitton.co.uk
     url: https://ryanfitton-nextjs-2024.ryanfitton.co.uk
     maxResponseTime: 3000
