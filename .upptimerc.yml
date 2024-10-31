@@ -31,7 +31,7 @@ status-website:
   logoUrl: https://status.ryanfitton.co.uk/logo-small-48.png
   name: ""
   introTitle: "Status Page"
-  introMessage: Checks are run every 20 minutes.
+  introMessage: Checks are run every 15 minutes.
   navbar:
     - title: Status overview 
       href: /
@@ -48,7 +48,7 @@ workflowSchedule:
   summary: "0 0 * * *"              # At 00:00
   updateTemplate: "0 0 * * *"       # At 00:00
   updates: "0 3 * * *"              # At 03:00
-  uptime: "*/20 * * * *"            # Every 20 minutes
+  uptime: "*/15 * * * *"            # Every 15 minutes
 
 metaTags:
   - name: "robots"
