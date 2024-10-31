@@ -60,19 +60,19 @@
     "url": "https://links.ryanfitton.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/links.ryanfitton.co.uk.ico",
     "slug": "links-ryanfitton-co-uk",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 157,
-    "timeDay": 196,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 153,
+    "timeDay": 179,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-10-31": 0
+      "2024-10-31": 20
     }
   },
   {
