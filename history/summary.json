@@ -4,10 +4,10 @@
     "url": "https://ryanfitton.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ryanfitton.co.uk.ico",
     "slug": "ryanfitton-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
@@ -15,25 +15,28 @@
     "timeWeek": 929,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-19": 1
+    }
   },
   {
     "name": "ryanfitton.co.uk/blog/",
     "url": "https://ryanfitton.co.uk/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/ryanfitton.co.uk.ico",
     "slug": "ryanfitton-co-uk-blog",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 1560,
     "timeDay": 1227,
     "timeWeek": 1269,
     "timeMonth": 1560,
     "timeYear": 1560,
     "dailyMinutesDown": {
+      "2024-11-19": 1,
       "2024-11-07": 24,
       "2024-11-06": 24,
       "2024-11-04": 32,
@@ -45,9 +48,9 @@
     "url": "https://ryanfitton.co.uk/portfolio/",
     "icon": "https://icons.duckduckgo.com/ip3/ryanfitton.co.uk.ico",
     "slug": "ryanfitton-co-uk-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +59,9 @@
     "timeWeek": 134,
     "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "links.ryanfitton.co.uk",
