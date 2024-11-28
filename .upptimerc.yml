@@ -9,9 +9,6 @@ sites:
   - name: ryanfitton.co.uk
     url: https://ryanfitton.co.uk
     maxResponseTime: 3000
-  - name: ryanfitton.co.uk/portfolio/
-    url: https://ryanfitton.co.uk/portfolio/
-    maxResponseTime: 8000
   - name: links.ryanfitton.co.uk
     url: https://links.ryanfitton.co.uk
     maxResponseTime: 3000
